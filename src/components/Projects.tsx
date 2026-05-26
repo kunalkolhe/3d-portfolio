@@ -51,7 +51,7 @@ export default function Projects() {
     <section className="bg-[#0d0d0d] py-24 md:py-32 px-6 md:px-12 relative z-20 border-t border-white/5">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#ff6b35] to-[#fec144] mb-16 leading-tight tracking-[-0.03em] text-center">
-          Things I've Built - PROJECTS
+          Things I&apos;ve Built - PROJECTS
         </h2>
         
         <div className="space-y-12">

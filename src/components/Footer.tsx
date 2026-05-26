@@ -7,8 +7,8 @@ export default function Footer() {
         <div className="md:w-1/2">
           <h2 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#ff6b35] to-[#fec144] tracking-tighter mb-4">Get in Touch.</h2>
           <p className="text-gray-400 mb-6 font-medium text-lg leading-relaxed max-w-md">
-            Let's build something real.<br />
-            Open to full-time roles, freelance projects, and collaborations. Drop me a message and I'll get back within 24 hours.
+            Let&apos;s build something real.<br />
+            Open to full-time roles, freelance projects, and collaborations. Drop me a message and I&apos;ll get back within 24 hours.
           </p>
           <div className="flex gap-4">
             <a href="https://www.linkedin.com/in/kunal-kolhe-852766342/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-[#ff6b35] transition-colors">
